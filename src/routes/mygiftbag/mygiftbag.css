@@ -1,0 +1,35 @@
+.title1 {
+  font-size: 1.6rem;
+
+}
+.title2 {
+  font-size: 1.6rem;
+  color: #0166ff;
+
+}
+.root {
+  margin-top: 8rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  text-align: center;
+}
+.div {
+  height: 14rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  background-color: #dddddd;
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+}
+.login {
+  margin-top: 3rem;
+  font-size: 6rem;
+}
+.login1 {
+  margin-top: 1rem;
+}
+.text {
+  font-size: 1.8rem;
+
+}

@@ -1,0 +1,26 @@
+.rf {
+  margin-top: 6rem;
+  margin-right: 3rem;
+}
+.rf1 {
+  margin-top: 3rem;
+  margin-right: 6rem;
+  margin-left: 10rem;
+  margin-bottom: 3rem;
+}
+.button {
+  font-size: 1.4rem;
+  width: 12rem;
+  height: 3rem;
+}
+.model {
+  width: 16rem;
+}
+.rf2 {
+  margin-right: 10rem;
+  margin-left: 10rem;
+  margin-bottom: 3rem;
+}
+.zutext {
+  color: #e35263;
+}

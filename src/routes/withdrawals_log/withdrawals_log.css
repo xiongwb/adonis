@@ -1,0 +1,76 @@
+/**
+ * Created by cyt on 2017/5/26.
+ */
+
+.line_left{
+  padding-left: 1px;
+  -webkit-transform: scaleX(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-left: 1px solid  #e5e5e5;
+  height: 10.2rem;
+  margin-left: 100%;
+}
+
+.line_right{
+  padding-left: 1px;
+  -webkit-transform: scaleX(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-left: 1px solid  #e5e5e5;
+  height: 10.2rem;
+}
+.line_top{
+  border-top: 1px;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-top: 1px solid  #e5e5e5;
+}
+.line_bottom{
+  padding-bottom: 1px;
+  margin-bottom:2rem;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+}
+.line{
+  padding-bottom: 1px;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  width: 97%;
+  margin-left: 1.5%;
+  border-bottom: 1px solid  #e5e5e5;
+}
+.inputDiv{
+  height: 9.5rem;
+  font-size: 1.5rem;
+
+}
+.title1{
+  font-size: 1.4rem;
+  color: black;
+  margin-top: 0.5rem;
+  margin-left: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+.title2{
+  font-size: 1.3rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+.top{
+  margin-top:7rem;
+}
+.spin{
+  text-align: center;
+}
+.prompt{
+  margin-top: 70%;
+  text-align: center;
+  font-size:2.1rem;
+  color:gray;
+}

@@ -1,0 +1,60 @@
+.inputDiv1{
+  font-size: 1.5rem;
+  height: 4rem;
+}
+.inputDiv2{
+  font-size: 1.5rem;
+  height: 4rem;
+}
+.text{
+  margin-left: 2rem;
+  color: black;
+}
+.line1{
+  -webkit-transform: scaleY(1);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+
+}
+.line2{
+  margin-top:1px;
+  -webkit-transform: scaleY(1);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+}
+
+.input1{
+    margin-bottom:2rem;
+    outline: none;
+    border: 0px solid  #d9d9d9;
+    height: 4rem;
+    width:70%;
+  }
+.input2{
+  margin-bottom:2rem;
+  outline: none;
+  border: 0px solid  #d9d9d9;
+  height: 4rem;
+  width:95%;
+}
+.top{
+  margin-top: 6.5rem;
+}
+.button1{
+  margin-top:0.5rem;
+  height: 3rem;
+  background-color: #e35263;
+  color: white;
+}
+.button2{
+  margin-top:2rem;
+  margin-left:7.5%;
+  background-color: #e35263;
+  color: white;
+  width: 85%;
+}
+.div{
+  line-height: 4rem;
+}

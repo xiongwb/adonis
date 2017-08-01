@@ -1,0 +1,57 @@
+.root{
+  flex:1;
+  background-color: #dddddd;
+}
+.msgDiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  padding-top: 4.5rem;
+  padding-bottom: 20px;
+}
+.assessmentPhoto{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.msgText{
+  font-size: 14px;
+  color: #4d4d4d;
+}
+.btnDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ed5565;
+  border-radius: 8px;
+  height: 44px;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.btnText{
+  font-size: 18px;
+  color: #ffffff;
+}
+.alertText{
+  font-size: 12px;
+  color: #4d4d4d;
+}
+.alertRedText{
+  color: #ed5565;
+}
+.remindDiv{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 5px;
+  background-color: #fff;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.remindText{
+  margin-left: 5px;
+  font-size: 12px;
+  color: #4d4d4d;
+}

@@ -1,0 +1,45 @@
+/**
+ * Created by cyt on 2017/5/25.
+ */
+
+.top{
+  margin-top: 8rem;
+}
+.button{
+  margin-top: 5%;
+  background-color: #ED5565;
+  margin-left: 15%;
+  width: 70%;
+  color: white ;
+  height: 3rem;
+  font-size: 1.5rem;
+}
+.radio{
+  text-align: center;
+  size: 111rem;
+}
+.title{
+  margin-top: 1rem;
+  color: blue;
+  width: 95%;
+  text-align: right;
+  font-size: 1.3rem;
+}
+.icon{
+  color: #ED5565;
+}
+.iconTitle{
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 1.3rem;
+}
+.spin{
+  text-align: center;
+}
+.text1{
+  font-size: 1.3rem;
+}
+.text2{
+  font-size: 1.2rem;
+}
+

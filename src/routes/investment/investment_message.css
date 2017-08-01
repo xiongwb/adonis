@@ -1,0 +1,143 @@
+.root {
+  background-color: #ffffff;
+}
+.div {
+  height: 3rem;
+  line-height: 3rem;
+  margin-left: 2rem;
+  margin-top: 6rem;
+  margin-right: 2rem;
+  border-bottom: 1px solid #dddddd;
+}
+.text {
+  font-size: 1.8rem;
+}
+.div1 {
+  height: 8rem;
+  text-align: center;
+}
+.col {
+  margin-top: 2rem;
+}
+.text1 {
+  font-size: 2.4rem;
+  color: #e35263;
+}
+.text2 {
+  font-size: 1rem;
+  color: #d9d9d9;
+}
+.div4 {
+  margin-top: 1rem;
+  border: 1px solid #dddddd;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.zdiv {
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+.ddiv {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.textx2 {
+  font-size: 2rem;
+  color: #e35263;
+}
+.textx3 {
+  font-size: 1rem;
+  color: #e35263;
+}
+.div3 {
+  margin-top: 2rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  border: 1px solid #dddddd;
+
+}
+.input {
+  width: 100%;
+  height: 3rem;
+  border: 0px;
+  margin-left: 1rem;
+  outline: none;
+}
+.button {
+  width: 100%;
+  height: 3rem;
+  border: 0px;
+}
+.bucol {
+  background-color: #e35263;
+}
+.sxju {
+  margin-bottom: 0.6rem;
+}
+.kbj {
+  height: 24rem;
+  line-height: 24rem;
+  text-align: center;
+}
+.spin {
+  text-align: center;
+}
+.modeltitle {
+  margin-top: 2rem;
+  text-align: center;
+}
+.modeltext {
+  font-size: 1.4rem;
+  color: #101010;
+}
+.root1 {
+  margin-top: 1rem;
+
+}
+.text3 {
+  font-size: 1.4rem;
+  color: dimgray;
+}
+.text4 {
+  font-size: 1.4rem;
+  color: #e35263;
+}
+.root2 {
+  border: 1px solid #e35263;
+  text-align: center;
+  height: 3rem;
+  width: 99%;
+  line-height: 3rem;
+}
+.root3 {
+  text-align: center;
+}
+.root4 {
+  margin-top: 0.5rem;
+}
+.text5 {
+  font-size: 1rem;
+}
+.text6 {
+  font-size: 1.2rem;
+  color: black;
+}
+.text7 {
+  font-size: 1.2rem;
+  color: #e35263;
+}
+.root5 {
+  text-align: right;
+}
+.root6 {
+  text-align: left;
+}
+.root7 {
+  text-align: center;
+  margin-top: 2rem;
+}
+.modelbutton {
+  width: 60%;
+  height: 3rem;
+}

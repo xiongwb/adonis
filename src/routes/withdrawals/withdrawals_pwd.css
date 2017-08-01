@@ -1,0 +1,44 @@
+/**
+ * Created by cyt on 2017/5/26.
+ */
+.inputDiv{
+
+  font-size: 1.5rem;
+  height: 4rem;
+}
+
+.text{
+  margin-left: 2rem;
+  color: black;
+}
+.line1{
+  margin-top:7.5rem;
+  -webkit-transform: scaleY(1);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+
+}
+.line2{
+  margin-top:1px;
+  -webkit-transform: scaleY(1);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+}
+.button{
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-left: 2.5%;
+  color: white ;
+  background-color: #ED5565;
+  width: 95%;
+  height:4.5rem;
+}
+.input{
+  margin-bottom:2rem;
+  outline: none;
+  border: 0px solid  #d9d9d9;
+  height: 4rem;
+  width:70%;
+}

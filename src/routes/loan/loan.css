@@ -1,0 +1,48 @@
+.img {
+  width: 100%;
+  height: 24rem;
+}
+.root {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  text-align: center;
+
+}
+.sdao {
+  margin-top: 4rem;
+}
+.root1 {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.text {
+  font-size: 2rem;
+}
+.text1 {
+  color: #757575;
+  font-size:1.3rem;
+  align-content:center;
+}
+.root3 {
+  height: 8rem;
+  background-color: #e35263;
+  width: 8rem;
+  border-radius: 100px 100px 100px 100px;
+  text-align: center;
+  margin:0 auto;
+  line-height: 8rem;
+}
+.root4 {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.text2{
+  font-size: 1.8rem;
+  color: #ffffff;
+}
+.spin {
+  text-align: center;
+}

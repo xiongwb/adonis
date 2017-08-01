@@ -1,0 +1,18 @@
+.root {
+  margin-top: 6rem;
+}
+.login1 {
+  margin-top: 3rem;
+  text-align: center;
+}
+.login {
+  text-align: center;
+}
+.input {
+  width: 50%;
+  height: 3rem;
+}
+.button {
+  width: 30%;
+  height: 3rem;
+}

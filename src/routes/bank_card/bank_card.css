@@ -1,0 +1,77 @@
+.div{
+  height:4rem;
+  color: black;
+  font-size: 1.5rem;
+  line-height: 4rem;
+}
+.bodyDiv {
+  min-height: 8rem;
+}
+
+.bankName {
+  margin-left: 1.5rem;
+  margin-top:1.5rem;
+  font-size: 1.5rem;
+}
+.bankNo {
+  margin-left: 1.5rem;
+  margin-top:0.8rem;
+  font-size: 1.5rem;
+}
+.img1{
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 7rem;
+  height: 4.7rem;
+}
+.icon1{
+  margin-top: 3rem;
+  width: 2.5rem;
+  height: 2rem;
+}
+.line1{
+  padding-bottom: 1px;
+  margin-top:2.5rem;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #c8c7cc;
+
+}
+.line2{
+  padding-bottom: 1px;
+  margin-top:1px;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #c8c7cc;
+}
+.line3{
+  margin-top:2.5rem;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #c8c7cc;
+  padding-bottom: 1px;
+}
+.line4{
+  padding-bottom: 1px;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #c8c7cc;
+}
+.icon2{
+  margin-left: 80%;
+}
+.img2{
+  margin-top:0.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  margin-left: 2rem;
+}
+.spin{
+  text-align: center;
+}
+

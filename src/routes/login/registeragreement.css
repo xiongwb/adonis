@@ -1,0 +1,10 @@
+.root {
+  margin-top: 6rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.text {
+  font-size: 1.6rem;
+  color: #101010;
+}
+.spin { text-align: center}

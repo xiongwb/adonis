@@ -1,0 +1,49 @@
+.root{
+  flex: 1;
+  background-color: #ffffff;
+}
+.remindDiv{
+  margin-top: 4.5rem;
+  padding: 24px 18px;
+}
+.remindText{
+  font-size: 12px;
+  color: #4d4d4d;
+}
+.countDiv{
+  display: flex;
+  align-items: flex-end;
+}
+.countText{
+  margin: 0px 10px 5px auto;
+  font-size: 14px;
+  color: #808080;
+}
+.questionRowDiv{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #fff;
+  border-bottom: #dddddd solid 1px;
+}
+.questionDiv{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.question{
+  font-size: 16px;
+  color: #000000;
+}
+.answersDiv{
+  margin-left: 15px;
+}
+.answerDiv{
+  margin-bottom: 5px;
+}
+.answerSelected{
+  font-size: 14px;
+  color: #ed5565;
+}
+.answerUnselect{
+  font-size: 14px;
+  color: #4D4D4D;
+}

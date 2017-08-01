@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dva Demo</title>
+  <link rel="stylesheet" href="index.css" />
+  <script type="text/javascript">
+    //怎么获取网页的高度 让页面一出来就滚动条在最底端
+    function myScroll()
+    {
+//前边是获取chrome等一般浏览器 如果获取不到就是ie了 就用ie的办法获取
+      //var x=document.body.scrollTop||document.documentElement.scrollTop;
+
+      //var timer=setInterval(function(){
+          //x=0;
+//          window.scrollTo(0,0);
+          //clearInterval(timer);
+      //},"0");
+    }
+  </script>
+    </head>
+<body>
+<div id="root" onclick={myScroll()}></div>
+<script src="index.js">
+
+</script>
+</body>
+</html>

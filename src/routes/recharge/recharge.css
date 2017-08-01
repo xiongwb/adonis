@@ -1,0 +1,102 @@
+
+
+.bodyDiv {
+  min-height: 8rem;
+
+}
+
+.bankName {
+  margin-left: 1.5rem;
+  margin-top:1.5rem;
+  font-size: 1.5rem;
+}
+.bankNo {
+  margin-left: 1.5rem;
+  margin-top:0.8rem;
+  font-size: 1.5rem;
+}
+.img{
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 7rem;
+  height: 4.7rem;
+}
+.icon{
+  margin-left: 1rem;
+  margin-top: 2.5rem;
+  font-size: 2.5rem;
+}
+.input{
+  margin-top: 0.1rem;
+  outline: none;
+  border: 0px solid  #d9d9d9;
+  height: 4.5rem;
+  width:70%;
+}
+.inputDiv{
+
+  font-size: 1.5rem;
+  height: 4.5rem;
+}
+
+.text{
+  margin-left: 2rem;
+}
+.button{
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-left: 2.5%;
+  color: white ;
+  background-color: #ED5565;
+  width: 95%;
+  height:4.5rem;
+}
+.line1{
+  padding-bottom: 1px;
+  margin-top:1.5rem;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+
+}
+.line2{
+  padding-bottom: 1px;
+  margin-top:1px;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+}
+.line3{
+  margin-top:2.5rem;
+  padding-bottom: 1px;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+
+}
+.line4{
+  padding-bottom: 1px;
+  -webkit-transform: scaleY(0.5);
+  -webkit-transform-origin:0 0;
+  overflow: hidden;
+  border-bottom: 1px solid  #e5e5e5;
+  margin-bottom:1.5rem;
+}
+.title{
+  color:black;
+  margin-left: 10%;
+  font-size: 1.3rem;
+}
+.spin{
+  text-align: center;
+}
+.prompt{
+  margin-top: 70%;
+  text-align: center;
+  font-size:2.1rem;
+  color:gray;
+}

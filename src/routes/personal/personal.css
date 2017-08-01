@@ -1,0 +1,158 @@
+.root{
+  flex: 1;
+  background-color: #F5F5F9;
+}
+.perinfoDiv{
+  background-color: #ffffff;
+}
+.headDiv{
+  height:115px;
+  width:100%;
+  padding-top: 20px;
+  background: url(../../assets/bg_pic.png);
+}
+.nameDiv{
+  display:flex;
+  justify-content:center;
+  align-items: center ;
+}
+.name{
+  font-size: 15px;
+  color: white;
+}
+.remindDiv{
+  display:flex;
+  justify-content:flex-end;
+  margin-right:25px;
+  margin-top:-20px;
+}
+.photoDiv{
+  position: absolute;
+  top:85px;
+  left:calc(50% - 30px);
+  display:flex;
+  align-items: center;
+  justify-content:center;
+  border: red solid 1px;
+  height:60px;
+  width:60px;
+  border-radius: 60px;
+}
+.perinfo{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  margin-top: 40px;
+}
+.assetsDiv{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-between;
+  width:100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.menoyDiv{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:space-between;
+}
+.money{
+  color: #ff7355;
+  font-size: 18px;
+}
+.moneyUnit{
+  color: #808080;
+  font-size: 12px;
+}
+.operationDiv{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content:space-between;
+}
+.rechargeBtn{
+  margin-right: 30px;
+  border: #ed5565 solid 1px;
+  color: #ed5565;
+  font-size: 15px;
+  font-weight: bold;
+}
+.withdrawBtn{
+  border: #ed5565 solid 1px;
+  color: #ed5565;
+  font-size: 15px;
+  font-weight: bold;
+}
+.detailDiv{
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  margin-top: 8px;
+  height: 300px;
+}
+.detailSideRowDiv{
+  display: flex;
+  flex-direction: row;
+  flex:1;
+}
+.detailCenterRowDiv{
+  display: flex;
+  flex-direction: row;
+  flex:1;
+  border-top: #F5F5F9 solid 1px;
+  border-bottom: #F5F5F9 solid 1px;
+}
+.detailSideItemDiv{
+  display: flex;
+  flex-direction: column;
+  flex:1;
+  justify-content: center;
+  align-items: center;
+}
+.detailCenterItemDiv{
+  display: flex;
+  flex-direction: column;
+  flex:1;
+  justify-content: center;
+  align-items: center;
+  border-left: #F5F5F9 solid 1px;
+  border-right: #F5F5F9 solid 1px;
+}
+.detailItemMoney{
+  color: #ff7355;
+  font-size: 20px;
+}
+.detailItemName{
+  color: #808080;
+  font-size: 12px;
+}
+.menuName{
+  color: #101010;
+  font-size: 13px;
+}
+.btnBox{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.btnDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 35px;
+  background-color: #ED5565;
+  border-radius: 8px;
+}
+.btnText{
+  color: #ffffff;
+  font-size: 16px;
+}
+.tabBarDiv{
+
+}

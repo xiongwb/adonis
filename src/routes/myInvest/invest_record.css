@@ -1,0 +1,165 @@
+.root{
+  flex: 1;
+  background-color: #F5FCFF;
+}
+.menuDiv{
+  position: fixed;
+  top:4.5rem;
+  z-index:9999;
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  width: 100%;
+  height: 50px;
+}
+.selectedMenu{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: #ed5565 solid 3px;
+}
+.unselectMenu{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: #dddddd solid 1px;
+}
+.selectedText{
+  color: #ed5565;
+  font-size: 16px;
+}
+.unselectText{
+  color: #AAAAAA;
+  font-size: 16px;
+}
+.listDiv{
+  margin-top: calc(50px + 4.5rem);
+  padding-top: 1px;
+  padding-bottom: 10px;
+}
+.row1Div{
+  background-color:#fff;
+  margin-left:15px;
+  margin-right:15px;
+  margin-top:10px;
+  border-radius:8px;
+}
+.prdnameDiv{
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content:space-between;
+  margin-left:10px;
+  margin-right:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  display:flex;
+  border-bottom:#ededed solid 1px;
+}
+.prdname{
+  color: #101010;
+  font-size: 16px;
+}
+.row1DetailDiv{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  margin-left:10px;
+  margin-right:10px;
+  margin-top:10px;
+  padding-bottom:10px;
+  border-bottom:#ededed solid 1px;
+}
+.row1DetailItemDiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.row1DetailItemName{
+  font-size: 14px;
+  color: #4d4d4d;
+  margin-bottom: 5px;
+}
+.row1DetailItemValue{
+  font-size: 16px;
+  color: #4d4d4d;
+}
+.row1DetailStatusDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border:#ED5565 solid 1px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.row1DetailStatus{
+  font-size: 12px;
+  color: #ED5565;
+}
+.row1FootDiv{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content:space-between;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: #ededed solid 1px;
+}
+.row1FootItemText{
+  font-size: 10px;
+  color: #4d4d4d;
+}
+.row1BtnDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  width: 50px;
+  border-radius: 2px;
+  background-color: #ed5565;
+}
+.row1BtnDisabledDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  width: 50px;
+  border-radius: 2px;
+  background-color: #cccccc;
+}
+.row1BtnText{
+  font-size: 10px;
+  color: #ffffff;
+}
+.detailDiv{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.modelDetailName{
+  font-size: 16px;
+}
+.modelDetailValue{
+  font-size: 16px;
+  color:#e35263;
+}
+.modelBtn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ED5565;
+  height: 30px;
+  width: 200px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: calc(50% - 100px);
+}
+.modelBtnText{
+  font-size: 14px;
+  color: #ffffff;
+}

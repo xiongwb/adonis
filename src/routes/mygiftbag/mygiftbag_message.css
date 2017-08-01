@@ -1,0 +1,32 @@
+.login {
+  margin-top: 5rem;
+  height: 3rem;
+  line-height: 3rem;
+  background-color: #ffffff;
+}
+.text {
+  margin-left: 1rem;
+  font-size: 1.8rem;
+}
+.text1 {
+  font-size: 1.8rem;
+  color: #0166ff;
+}
+.root {
+  background-color: #dddddd;
+  height: 100rem;
+}
+.img {
+  height: 14rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 2rem;
+
+}
+.img1{
+ height: 100%;
+  width: 100%;
+}
+.div1 {
+  margin-bottom: 4rem;
+}

@@ -1,0 +1,73 @@
+.root{
+  background-color: #F5FCFF;
+  flex:1;
+}
+.inputBox{
+  background-color: #FFFFFF;
+  margin-top: calc(4.5rem + 10px);
+}
+.dataDiv{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 44px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-bottom: #e5e5e5 solid 1px;
+}
+.dataNameDiv{
+  display: flex;
+  align-items: center;
+  flex:1;
+}
+.dataName{
+  font-size: 16px;
+  color: #000000;
+}
+.dataValueDiv{
+  display: flex;
+  align-items: center;
+  flex:3;
+}
+.dataValue{
+  font-size: 16px;
+  color: #000000;
+}
+.typeDiv{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 44px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-bottom: #e5e5e5 solid 1px;
+}
+.moneyDiv{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 44px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-bottom: #e5e5e5 solid 1px;
+}
+.input{
+  outline: none;
+  border: none;
+  font-size: 16px;
+}
+.btnDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ED5565;
+  height: 40px;
+  width:80%;
+  margin-left: 10%;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+.btnText{
+  font-size: 16px;
+  color: #FFFFFF;
+}
